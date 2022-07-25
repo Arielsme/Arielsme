@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com suporte técnico
 - 🌱 Cursando Desenvolvimento de Sistemas (ADS) pela FAM e estudando FullStack Developer pela DIO
 - 👯 Procuro colaborar com codigos e ideias de projetos...
-- 🤔 Preciso de exercicios para praticar programação
+- 🤔 Procuro exercicios para praticar programação
 - 📫 Contate-me no email: ariel.nascimento@ibm.com
 <div align="center">
   <a href="https://github.com/arielsme">
